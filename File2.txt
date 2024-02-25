@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Now, this is the 2nd File of repo-1.
 
+=======
+This is the second file of the repository. 
+>>>>>>> Re2/main
