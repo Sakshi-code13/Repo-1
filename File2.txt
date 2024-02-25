@@ -1,0 +1,1 @@
+And this is the second file of the repository 2, which we'll merge.
